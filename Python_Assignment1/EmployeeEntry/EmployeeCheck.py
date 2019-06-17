@@ -22,4 +22,3 @@ def employee_Entry_Check():
         employee_Entry_Check()
     finally:
         pass
-employee_Entry_Check()
